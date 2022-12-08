@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech-Tom1
-- 👀 I’m interested in website and app development, I'm also interested in machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in website and application development
+- 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on simple to complex website projects
 - 📫 How to reach me ...
 Email: bamideled141@gmail.com
